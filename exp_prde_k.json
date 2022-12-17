@@ -1,0 +1,41 @@
+{
+  "title": "Homogeneous set of 20 PRDE traders, F=0.8",
+  "metric": "PPS",
+  "lines": [
+    {
+      "label": "k=5",
+      "session": "bse_k05_f08_0005",
+      "filepath": "PRDE/PRDE k5-25 f0.8 sd50 150/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "k=10",
+      "session": "bse_k10_f08_0005",
+      "filepath": "PRDE/PRDE k5-25 f0.8 sd50 150/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "k=15",
+      "session": "bse_k15_f08_0005",
+      "filepath": "PRDE/PRDE k5-25 f0.8 sd50 150/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "k=20",
+      "session": "bse_k20_f08_0005",
+      "filepath": "PRDE/PRDE k5-25 f0.8 sd50 150/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "k=25",
+      "session": "bse_k25_f08_0005",
+      "filepath": "PRDE/PRDE k5-25 f0.8 sd50 150/",
+      "trader": "T",
+      "ids": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "60 PRDE traders, k=4, F=0.8, trial 1",
+  "metric": "PPS",
+  "lines": [
+    {
+      "label": "Total",
+      "session": "bse_k04_f08_0001",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Buyers",
+      "session": "bse_k04_f08_0001",
+      "trader": "B",
+      "ids": []
+    },
+    {
+      "label": "Sellers",
+      "session": "bse_k04_f08_0001",
+      "trader": "S",
+      "ids": []
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "title": "60 traders, k=4, all trials",
+  "metric": "PPS",
+  "lines": [
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0001",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0001",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0002",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0002",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0003",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0003",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0006",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0006",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0007",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0007",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0008",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0008",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0009",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0009",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0010",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0010",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0011",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0011",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0012",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0012",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0013",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0013",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0014",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0014",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRDE, k=0.8",
+      "session": "bse_k04_f08_0015",
+      "filepath": "PRAD/PRDE k4 f0.8 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k04_af_0015",
+      "filepath": "PRAD/PRAD k4 p0.1 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0001",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0002",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0003",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0004",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0005",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0006",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0007",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0008",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0009",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0010",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0011",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0012",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0013",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0014",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "PRAD",
+      "session": "bse_k15_af_0015",
+      "filepath": "PRAD/PRAD k15 p0.2 sd60 140/",
+      "trader": "T",
+      "ids": []
+    }
+  ]
+}

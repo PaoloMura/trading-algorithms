@@ -1,0 +1,12 @@
+{
+  "title": "60 PRDE traders, k=4, F=0.8, trial 1",
+  "metric": "strategy",
+  "lines": [
+    {
+      "label": "Buyer",
+      "session": "bse_k04_f08_0001",
+      "trader": "B",
+      "ids": []
+    }
+  ]
+}

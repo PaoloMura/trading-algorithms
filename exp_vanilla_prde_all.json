@@ -1,0 +1,89 @@
+{
+  "title": "60 PRDE traders, k=4, F=0.8, trials 1 to 20",
+  "lines": [
+    {
+      "label": "Trial 1",
+      "session": "bse_k04_f08_0001",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 2",
+      "session": "bse_k04_f08_0002",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 3",
+      "session": "bse_k04_f08_0003",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 6",
+      "session": "bse_k04_f08_0006",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 7",
+      "session": "bse_k04_f08_0007",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 9",
+      "session": "bse_k04_f08_0009",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 10",
+      "session": "bse_k04_f08_0010",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 11",
+      "session": "bse_k04_f08_0011",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 13",
+      "session": "bse_k04_f08_0013",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 14",
+      "session": "bse_k04_f08_0014",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 15",
+      "session": "bse_k04_f08_0015",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 17",
+      "session": "bse_k04_f08_0017",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 18",
+      "session": "bse_k04_f08_0018",
+      "trader": "T",
+      "ids": []
+    },
+    {
+      "label": "Trial 19",
+      "session": "bse_k04_f08_0019",
+      "trader": "T",
+      "ids": []
+    }
+  ]
+}
